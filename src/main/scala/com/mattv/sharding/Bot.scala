@@ -4,7 +4,6 @@ import akka.actor.Actor
 import akka.cluster.sharding.ClusterSharding
 import scala.concurrent.duration._
 
-
 object Bot {
   private case object Tick
 
